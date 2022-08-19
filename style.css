@@ -1,0 +1,11 @@
+body {
+  background: black;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+canvas {
+  border: 1px solid white;
+}
